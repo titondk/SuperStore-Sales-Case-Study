@@ -44,3 +44,10 @@ The original dataset used in this project is the **Superstore Sales Dataset** fr
 
 The data was cleaned and transformed using Google BigQuery before being visualized in Tableau.
 
+## Business Recommendations
+- **Q4 Inventory Planning:** Stock up on **Phones** and **Chairs** by mid-September to avoid stockouts during Q4 peaks.
+- **Geographic Focus:** The West (CA, WA) drives 30%+ of sales. Consider a localized marketing campaign here.
+- **Segment Strategy:** Consumer segment is the largest, but Corporate has higher average order value. Test a corporate loyalty program.
+
+  ## Story of the Data
+"After analyzing 4 years of Superstore sales, I found that while sales are growing overall, growth is heavily concentrated in Q4 and driven by Technology. Meanwhile, the Furniture category has flat growth despite high discount rates. This suggests a strategic opportunity to shift marketing budget toward Technology 6 weeks before Q4."
