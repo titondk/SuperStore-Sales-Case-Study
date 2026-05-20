@@ -34,7 +34,4 @@ This project analyzes retail sales data to identify the key factors driving reve
 3. Connect the cleaned data to Tableau Public.
 4. Recreate the dashboard or use the published `.twbx` file if included.
 
-## Future Improvements
-- Add a scatter plot to analyze the impact of **Discount %** vs. **Profit**.
-- Include a **KPI summary row** (Total Sales, Year-over-Year Growth) for quick executive review.
-- Parameter-based filtering (e.g., select year, region, or segment on the fly).
+
