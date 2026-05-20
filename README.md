@@ -34,4 +34,13 @@ This project analyzes retail sales data to identify the key factors driving reve
 3. Connect the cleaned data to Tableau Public.
 4. Recreate the dashboard or use the published `.twbx` file if included.
 
+## Data Source
+
+The original dataset used in this project is the **Superstore Sales Dataset** from Kaggle.
+
+- **Kaggle Link:** [Superstore Sales Dataset](https://www.kaggle.com/.../superstore-sales-dataset)
+- **Local copy:** [data/SuperStore.csv](data/SuperStore.csv)
+- **License:** CC0: Public Domain
+
+The data was cleaned and transformed using Google BigQuery before being visualized in Tableau.
 
