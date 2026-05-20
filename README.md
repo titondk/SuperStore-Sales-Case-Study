@@ -38,8 +38,8 @@ This project analyzes retail sales data to identify the key factors driving reve
 
 The original dataset used in this project is the **Superstore Sales Dataset** from Kaggle.
 
-- **Kaggle Link:** [Superstore Sales Dataset](https://www.kaggle.com/.../superstore-sales-dataset)
-- **Local copy:** [data/SuperStore.csv](data/SuperStore.csv)
+- **Kaggle Link:** [Superstore Sales Dataset]([https://www.kaggle.com/.../superstore-sales-dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting))
+- **Local copy:** [super_store_data.csv](super_store_data.csv)
 - **License:** CC0: Public Domain
 
 The data was cleaned and transformed using Google BigQuery before being visualized in Tableau.
