@@ -50,4 +50,4 @@ The data was cleaned and transformed using Google BigQuery before being visualiz
 - **Segment Strategy:** Consumer segment is the largest, but Corporate has higher average order value. Test a corporate loyalty program.
 
 ## Story of the Data
-"After analyzing 4 years of Superstore sales, I found that while sales are growing overall, growth is heavily concentrated in Q4 and driven by Technology. Meanwhile, the Furniture category has flat growth despite high discount rates. This suggests a strategic opportunity to shift marketing budget toward Technology 6 weeks before Q4."
+"After analyzing 4 years of Superstore sales, I found that while sales are growing overall, growth is heavily concentrated in Q4 and driven by Technology. Meanwhile, the Furniture category has flat growth . This suggests a strategic opportunity to shift marketing budget toward Technology 6 weeks before Q4."
